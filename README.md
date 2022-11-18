@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Orhan Emre
+# 👋 Hi, it's Orhan
 
 * 16 years old student interested in programming from Turkey.  
 * Mostly focused on web development.

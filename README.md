@@ -17,4 +17,4 @@
 [Twitter](https://twitter.com/orhanemredkcgl) ●
 [Leetcode](https://leetcode.com/orhanemree)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanemree&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanemree&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)

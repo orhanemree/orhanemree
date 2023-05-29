@@ -1,14 +1,14 @@
-# 👋 Hi, it's Orhan
+# 👋 Hi, it's Orhan!
 
-* 16 years old student interested in programming from Turkey.  
-* Mostly focused on web development.
-* Loves JavaScript/Python and its frameworks/librarys/community.
+* 17 years old student interested in programming from Turkey.
+* Mostly focused on web platform.
 
 ## Stack
+* Languages: C, JavaScript, Python
 * Frontend: Tailwind CSS + Nuxt.js, SvelteKit
-* Backend: JavaScript/Node.js, Python/Flask
+* Backend: Node.js, Flask
 * Database: Firebase, MongoDB
-* Tools: Git, Bash, Heroku, Netlify, Vercel etc.
+* Tools: Git, Bash, Netlify, Vercel etc.
 
 ## Also mine
 

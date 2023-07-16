@@ -4,9 +4,10 @@
 * Mostly focused on web platform.
 
 ## Stack
-* Languages: C, JavaScript, Python
-* Frontend: Tailwind CSS + Nuxt.js, SvelteKit
+* Languages: C/C++, JavaScript, Python
+* Frontend: Tailwind CSS, React, Vue, Svelte
 * Backend: Node.js, Flask
+* Fullstack: Next.js, Nuxt.js, SvelteKit
 * Database: Firebase, MongoDB
 * Tools: Git, Bash, Netlify, Vercel etc.
 

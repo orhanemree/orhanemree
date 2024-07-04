@@ -1,13 +1,13 @@
 # 👋 Hi, it's Orhan!
 
 * 18 year old student interested in programming from Turkey.
-* Mostly focused on web platform.
-* Currently learning some AI things.
+* Mostly focused on web platform and rewriting cool libraries.
+* Currently doing some maths and learning AI things.
 
 ## Stack
-* Languages: C/C++, JavaScript, Python
+* Languages: C/C++, JavaScript/TypeScript, Python
 * Frontend: Tailwind CSS, React, Vue, Svelte
-* Backend: Node.js, Flask
+* Backend: Node/Bun
 * Fullstack: Next.js, Nuxt.js, SvelteKit
 * Database: Firebase, MongoDB
 * Tools: Git, Bash, Netlify, Vercel etc.

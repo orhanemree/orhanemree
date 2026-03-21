@@ -2,8 +2,8 @@
 
 * Psychology undergraduate at Bilkent University.
 * Previously focused on web development, working on both frontend and backend.
-* Now rewriting cool libraries.
-* Interested in cognitive psychology from a computational perspective.
+* Now writing cool libraries.
+* Interested in computational cognitive psychology.
 
 * Languages: C, Python, JavaScript/TypeScript
 
